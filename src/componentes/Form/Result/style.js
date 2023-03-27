@@ -4,14 +4,14 @@ import {StyleSheet} from 'react-native';
 const style = StyleSheet.create({
 
     resultadoMedia:{
-        margimBottom: 20,
+        marginBottom: 20,
 
     },
 
     info: {
         textAlign: 'center',
         fontSize: 18,
-        margimBottom: 10,
+        marginBottom: 10,
 
     },
 
@@ -22,7 +22,7 @@ const style = StyleSheet.create({
         fontWeight: 'bold',
         padding: 10,
         borderTopLeftRadius: 10,
-        borderTopRigthRadios: 10,
+        borderTopRightRadius: 10,
         
        },
 
@@ -32,7 +32,7 @@ const style = StyleSheet.create({
         textAlign: 'center',
         padding: 10,
         borderBottomLeftRadius: 10,
-        borderBottomRigthRadius: 10,
+        borderBottomRightRadius: 10,
     },
 
    corReprovado:{
