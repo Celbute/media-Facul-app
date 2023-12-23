@@ -11,14 +11,14 @@ Dependendo das suas notas é informado nas suas saidas o resultado com as cores 
 ## Layout Mobile
 <p align="left" >
   <img src="https://github.com/Celbute/phots/blob/master/assets/MediaFacul/Captura%20de%20tela%202023-12-23%20171757.png"  width="250px">
-  <img src="https://github.com/Celbute/phots/blob/master/assets/MediaFacul/Captura%20de%20tela%202023-12-23%20171845.png"   width="250px">  
+  <img src="https://github.com/Celbute/phots/blob/master/assets/MediaFacul/Captura%20de%20tela%202023-12-23%20171845.png"   width="245px">  
 
   </p>
 
   <p align="left">
  
   <img src="https://github.com/Celbute/phots/blob/master/assets/MediaFacul/Captura%20de%20tela%202023-12-23%20171938.png"  width="250px">
-  <img src="https://github.com/Celbute/phots/blob/master/assets/MediaFacul/Captura%20de%20tela%202023-12-23%20172026.png"  width="242px">
+  <img src="https://github.com/Celbute/phots/blob/master/assets/MediaFacul/Captura%20de%20tela%202023-12-23%20172026.png"  width="251px">
   </p>
 
 
@@ -28,9 +28,6 @@ Dependendo das suas notas é informado nas suas saidas o resultado com as cores 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 
-##  Back-end
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-### Foi usado: Authentication & Cloud Firestore
 
 # Autor
 André Luís 
