@@ -4,8 +4,8 @@
 
 # Sobre o projeto
 
-O media facul é um app simples e intuitivo que tem como objetivo calcular se o aluno foi reprovado,  para prova final ou foi aprovado por média.
-Dependendo das suas notas é informado nas suas saidas o resultado com as cores verde, laranja ou Vermelho.
+O media facul é um app simples e intuitivo que tem como objetivo calcular se o aluno foi reprovado, foi para prova final ou foi aprovado por média.
+Dependendo das suas notas, é informado em suas saidas o resultado com as cores verde, laranja ou Vermelho.
 
 
 ## Layout Mobile
